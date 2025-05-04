@@ -6,7 +6,8 @@ From custom software development and web applications to cloud solutions, cybers
 With a global mindset and a customer-first approach, CoD has earned a reputation for transforming ideas into scalable, future-ready solutions. Whether you're a startup looking to disrupt the market or an enterprise aiming to optimize operations, we are here to turn your digital vision into reality.
 Let’s build the future — together.
 </p>
-<br><br>
+
+
 <h2>🔧 Our Services at Company of Dragon (CoD)</h2>
 
 <h3>💻 Custom Software Development</h3>
@@ -79,6 +80,5 @@ Bug fixing and performance monitoring
 24/7 technical support packages
 Our job doesn't end at deployment. We provide continuous support, performance monitoring, bug fixing, and version upgrades to ensure your systems remain secure, stable, and up-to-date around the clock.
 
-
-<br><br>
+<br>
 <h2>Our Projects</h2>
